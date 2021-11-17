@@ -1,6 +1,7 @@
 import React from 'react'
+import './login.module.css';
 
-const LogIn = () => {
+const Login = () => {
   return (
     <>
       <h2>login</h2>
@@ -8,4 +9,4 @@ const LogIn = () => {
   )
 }
 
-export default LogIn
+export {Login}
