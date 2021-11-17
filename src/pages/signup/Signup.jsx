@@ -1,5 +1,5 @@
 import React from 'react'
-import './signup.module.css'
+import './signup.css'
 
 const Signup = () => {
   return (
@@ -9,4 +9,4 @@ const Signup = () => {
   )
 }
 
-export {Signup}
+export { Signup }

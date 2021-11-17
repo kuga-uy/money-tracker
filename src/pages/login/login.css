@@ -1,0 +1,16 @@
+
+
+form{
+  height: 200px;
+  border: 0.5px solid #eee;
+
+}
+.input{
+  margin-bottom: 10px;
+  border-radius: 5px;
+  width: 200px;
+  height: 20px;
+  outline: none;
+  border: 1px solid var(--primary-color);
+
+}

@@ -7,10 +7,18 @@
 
 .nav {
   width: 100%;
-  justify-content: flex-end;
+  align-items: center;
+  justify-content:space-between;
   display: flex;
   background-color: var(--primary-color);
   height: 50px;
+}
+
+.title{
+  font-size: 1rem;
+  color: var(--text-color);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 20px;
 }
 
 .df-jc-ac{

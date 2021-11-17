@@ -1,0 +1,12 @@
+.df-jc-ac{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.df-jc-ac-fdc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
